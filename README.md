@@ -37,13 +37,11 @@ Follow these steps to set up the project locally:
 ```bash
   php artisan serve
 ```
+# RUN the test
 
-## Access the application:
-   Open your browser and go to http://127.0.0.1:8000/orders to view the orders.
+```bash
+  php artisan test
+```
 
-
-### Refactoring Task
-The goal is to refactor the given Laravel controller method to improve its performance and efficiency.
-
-Refactored code:
-https://github.com/karadzinov/task2/blob/c97d208dd1cdb1f6842deed11971024c05b13f84/app/Http/Controllers/OrderController.php#L14
+## Written test
+https://github.com/karadzinov/task3/blob/5d87a00cacdd33acd68ae3bdc02fd41faaa21d49/tests/Feature/SpreadsheetServiceTest.php#L1
