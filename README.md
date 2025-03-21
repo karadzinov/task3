@@ -8,7 +8,7 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the repository:
 ```bash
-  git clone https://github.com/karadzinov/task2.git
+  git clone git@github.com:karadzinov/task3.git
 ```
 ### 2. Navigate into the project directory:
 ```bash
